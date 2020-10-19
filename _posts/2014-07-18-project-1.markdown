@@ -1,0 +1,15 @@
+---
+title: Alta Mara
+subtitle: Design through green chemistry.
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: alta-maria-your-own-skin.png
+thumbnail: alta-maria-your-own-skin.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Beauty
+description: <a href="https://www.altamarabeauty.com/" class="fa fa-globe"> </a> <p>Skincare became a huge part of my life in my early teen years as my skin turned oily and acne-prone practically over night. When I started using these products, I had no idea what I was doing and for the next 7 or so years, my skin had little improvement. So I decided I wanted full control and made a career out of skincare formulation. However, when I started out, I learned to create these products with little consideration to how potentially harmful many of these ingredients actually were. </p> <p>After a few years of formulating products, I attended graduate school at Yale to learn how to create safer, better products as well as increase sustainability throughout the supply chain. Now with Alta Mara, I strive to provide better access to healthier, more sustainable products. In addition to that, I want Alta Mara to successfully guide customers to finding the right products for their personal skincare routine, because one size does not fit all. Ultimately, I want to share what I’ve learned to put more power into people’s hands so they can take control of their skin.</p> <a href="https://bit.ly/2ICxZhT" class="btn btn-xl">Connect</a>
+
+---
