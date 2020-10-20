@@ -1,0 +1,15 @@
+---
+title: Greenverd
+subtitle: Greenverd  /greenward/ a journey toward a greener self and planet.
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: greenverd-def.png
+thumbnail: greenverd-def.png
+alt: image-alt
+project-date: 2020
+client: Greenverd
+category: Greenverd
+description: <a href="hhttps://greenverd.com/" class="fa fa-globe"> </a> <p>Greenverd focuses on the journey greenward; i.e. toward a more sustainable lifestyle, one step at a time. With kindness and compassion toward ourselves and the planet but without the pressure of perfection. Life is stressful enough without the added anxiety of having to change overnight and then guilting ourselves when those expectations aren’t met. Instead, we can build awareness, make small changes and move in the right direction for our health and that of the planet. So let's take just one step greenward. Notice the arrow in the G in our logo? That's our north star. </p> <p>With that mindset, Greenverd offers news, views and previews on sustainability through our newsletter, Word by Greenverd. We make suggestions, introduce you to existing and new green products, services and companies, (some of which will offer exclusive discounts to our readers) and give you the tools to make greener choices in your daily lives.</p> <a href="https://bit.ly/2ICxZhT" class="btn btn-xl">Connect</a>
+
+---

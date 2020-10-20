@@ -1,0 +1,64 @@
+url: "https://www.blueskinx.com"
+baseurl:
+
+# Site settings
+title: BlueSkinX
+email: emma@blueskinx.com
+description: "Protection. Prevention. Early treatment."
+
+# Team names, titles and social links
+people:
+- name: Emma
+  pic: 1
+  position: CEO
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Advisor 1
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Advisor 2
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url:
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url:
+#   - title: bitbucket
+#     url:
+#   - title: github
+#     url:
+
+# Postal address (add as many lines as necessary)
+address:
+  - line:
+  - line: San Francisco, CA 94102
+
+# Build settings
+markdown: kramdown
+permalink: pretty
