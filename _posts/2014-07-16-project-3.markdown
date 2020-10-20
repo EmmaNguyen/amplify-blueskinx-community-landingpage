@@ -1,0 +1,15 @@
+---
+title: No plastic
+subtitle: Zero-Waste Restaurant Ratings App
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: noplastics-recycle-bin.png
+thumbnail: noplastics-recycle-bin.png
+alt: image-alt
+project-date: 2019
+client: No plastic
+category: Mobile App
+description: <a href="https://www.plasticscore.co/" class="fa fa-globe"> </a> <p>We are on a mission to stop unnecessary plastic other single-use waste in dining - what we refer to as trashy dining. We believe in the power of a lot of people, making small choices, to drive massive change in the world. We believe in the power of transparency to help people make sustainable choices. We believe in imperfect environmentalism, including everyone in our movement, and celebrating every improvement, no matter how small. Our vision is to create a world where sustainable living is just living. </p>
+
+---
